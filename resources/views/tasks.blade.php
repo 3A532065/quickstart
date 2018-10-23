@@ -36,12 +36,7 @@
             </div>
             <div class="panel-body">
                 <table class="table table-striped task-table">
-                    <!-- 表頭 -->
-                    <thead>
-                    <th>Task</th>
-                    <th>&nbsp;</th>
-                    </thead>
-                    <!-- 表身 -->
+
                     <tbody>
                     @foreach ($tasks as $task)
                         <tr>
