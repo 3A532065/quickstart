@@ -1,0 +1,11 @@
+{
+    "name": "wayne/quickstart",
+    "description": "quickstart",
+    "authors": [
+        {
+            "name": "3A532065",
+            "email": "weyna1649@gmail.com"
+        }
+    ],
+    "require": {}
+}
